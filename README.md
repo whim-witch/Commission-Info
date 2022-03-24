@@ -62,16 +62,22 @@ padding-bottom:10px;}
   </table>
  </p>
 
-  <h2 align=center>Prices:</h2> Please note that I will round up the price for longer pieces after hitting 500 words–for example, if you commission a fanfic that is 1500 words, it will cost $60.
+  <h2 align=center>Prices</h2> Please note that I will round up the price for longer pieces after hitting 500 words–for example, if you commission a fanfic that is 1500 words, it will cost $60.
 
-  <li>Ficlet (500-900 words) - $20</li>
-  <li>Fanfic/essay - $30 per 1000 words**</li>
-  <li>*Fanmix with liner notes (8 songs) - $25</li>
-  <li>*Fanpoem - $20</li>
-  <i>*Please let me know if there is a genre or structure you’d prefer for a fanmix or poem.</i><br>
-  <i>**I reserve the right to round up when over 500 words into a word count tier.</i><br>
+<table align=center>
+ <tr>
+  <th>Ficlet (500-900 words)</th> <td>$20</td></tr>
+ <tr>
+  <th>Fanfic/essay</th> <td>$30 per 1000 words**</td></tr>
+ <tr>
+  <th>*Fanmix with liner notes (8 songs)</th> <td>$25</td></tr>
+ <tr>
+  <th>*Fanpoem</th> <td>$20</td></tr>
+ </table>
+  <small><i>*Please let me know if there is a genre or structure you’d prefer for a fanmix or poem.</i></small><br>
+  <small><i>**I reserve the right to round up when over 500 words into a word count tier.</i></small><p>
 
 I will reply to commission requests within 1-3 days. I will write up an invoice with estimated completion time and keep the commissioner updated with draft progress until the piece is complete.
 
-  <b>Contact:</b> For inquiries, send an email to whimwitch @ protonmail.com (remove spaces) or send a twitter DM to <a href="https://twitter.com/PendulumScale">@pendulumscale</a>. 
+  <h2 align=center>Contact:</h2> For inquiries, send an email to whimwitch @ protonmail.com (remove spaces) or send a twitter DM to <a href="https://twitter.com/PendulumScale">@pendulumscale</a>. 
  
