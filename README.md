@@ -34,7 +34,7 @@ https://whimwitch.neocities.org/poetry.html </p>
 
 <b><p align=center>I reserve the right to decline a writing a commission proposal without explanation.</p></b>
 
-<h2 align=center>Refunds</h1>
+<h2>Refunds</h2>
  <table align=center>
   <tr>
    <th>Not started</th>
@@ -55,7 +55,7 @@ https://whimwitch.neocities.org/poetry.html </p>
   </table>
  </p>
 
-  <h2 align=center>Prices</h2> Please note that I will round up the price for longer pieces after hitting 500 words–for example, if you commission a fanfic that is 1500 words, it will cost $60.
+  <h2>Prices</h2> Please note that I will round up the price for longer pieces after hitting 500 words–for example, if you commission a fanfic that is 1500 words, it will cost $60.
 
 <table align=center>
  <tr>
@@ -72,5 +72,5 @@ https://whimwitch.neocities.org/poetry.html </p>
 
 I will reply to commission requests within 1-3 days. I will write up an invoice with estimated completion time and keep the commissioner updated with draft progress until the piece is complete.
 
-  <h2 align=center>Contact</h2> For inquiries, send an email to whimwitch @ protonmail.com (remove spaces) or send a twitter DM to <a href="https://twitter.com/PendulumScale">@pendulumscale</a>. 
+  <h2>Contact</h2> For inquiries, send an email to whimwitch @ protonmail.com (remove spaces) or send a twitter DM to <a href="https://twitter.com/PendulumScale">@pendulumscale</a>. 
  
