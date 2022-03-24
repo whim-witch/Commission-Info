@@ -34,7 +34,7 @@ https://whimwitch.neocities.org/poetry.html </p>
 
 <b><p align=center>I reserve the right to decline a writing a commission proposal without explanation.</p></b>
 
-<h2>Refunds</h2> If the commissoner needs a refund before the piece is finished, please see the refund rates below:
+<h2>Refunds</h2> <p align=center>If the commissoner needs a refund before the piece is finished, please see the refund rates below:</p>
  <table align=center>
   <tr>
    <th>Not started</th>
