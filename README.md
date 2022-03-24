@@ -1,4 +1,4 @@
-<h1>Whim's Writing Commission Info</h1>
+<h1 algin=center>Whim's Writing Commission Info</h1>
 
 I am offering fanfiction commissions! I am also willing to write character studies, fan essays, fan poetry, and fanmixes with detailed liner notes.
 
@@ -30,16 +30,6 @@ https://whimwitch.neocities.org/poetry.html </p>
  <b>TOS:</b> I accept PayPal only, and payment must come upfront before I start writing. Commissioners also must be over the age of 18 and by commissioning me you certify that you are a legal adult. As the writer, I also reserve the right to publish written works on my own site, AO3, or any other place that promotes my writing. I also retain the rights to all pieces I write and may use them as part of future portfolios, published works, etc. You may not resell, or claim my work as your own. You may repost my work on your own site as long as you credit me.
 
 <b><p align=center>I reserve the right to decline a writing a commission proposal without explanation.</p></b>
-
-h2 {
-width:100%;
-font-size: 20px;
-line-height:20px;
-font-weight: bolder;
-margin: auto;
-text-align: center;
-padding-top:10px;
-padding-bottom:10px;}
 
 <h2 align=center>Refunds</h1>
  <table align=center>
