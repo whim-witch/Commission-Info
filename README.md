@@ -17,7 +17,7 @@ Below are a list of fandoms I feel most comfortable writing for (I will also wri
  </tr>
  </table>
 <br>
-There are many more fandoms I’m comfortable writing for, but these are the ones I discuss the most currently. I am comfortable writing for pretty much any horror series (I’ve seen too many films to list) and also writing certain kinds of RPF (I will not write about minors or anything that incites violence against a real person).<br>
+There are many more fandoms I’m comfortable writing for, but these are the ones I discuss the most currently. I am comfortable writing for pretty much any horror series (I’ve seen too many films to list) and also writing certain kinds of RPF (I will not write about minors or anything that incites violence against a real person).<p>
 
 I specialize in writing stories about horror elements, possession, codependency, hurt/comfort, and also just plain silly crack fics. I also love essay style writing, so if there’s a ship that you’d like a manifesto for I am more than happy to supply.<br>
 
@@ -29,7 +29,7 @@ https://whimwitch.neocities.org/poetry.html </p>
 
  <b>TOS:</b> I accept PayPal only, and payment must come upfront before I start writing. Commissioners also must be over the age of 18 and by commissioning me you certify that you are a legal adult. As the writer, I also reserve the right to publish written works on my own site, AO3, or any other place that promotes my writing. I also retain the rights to all pieces I write and may use them as part of future portfolios, published works, etc. You may not resell, or claim my work as your own. You may repost my work on your own site as long as you credit me.
 
-<b><center>I reserve the right to decline a writing a commission proposal without explanation.</center></b><p>
+<b><p align=center>I reserve the right to decline a writing a commission proposal without explanation.</p></b>
 
 
  <b>Refunds:</b>
