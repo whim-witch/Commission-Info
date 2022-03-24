@@ -23,9 +23,9 @@ I specialize in writing stories about horror elements, possession, codependency,
 
 I am also comfortable writing NSFW fics, however I reserve the right to decline a writing a commission proposal without explanation.<br>
 
-<center>To see some samples of my fiction, see my AO3: https://archiveofourown.org/users/whimwitch </center><br>
-<center>For poetry examples, see my site:
-https://whimwitch.neocities.org/poetry.html </center><p>
+<p allign=center>To see some samples of my fiction, see my AO3: https://archiveofourown.org/users/whimwitch </p><br>
+<p allign=center>For poetry examples, see my site:
+https://whimwitch.neocities.org/poetry.html </p>
 
  <b>TOS:</b> I accept PayPal only, and payment must come upfront before I start writing. Commissioners also must be over the age of 18 and by commissioning me you certify that you are a legal adult. As the writer, I also reserve the right to publish written works on my own site, AO3, or any other place that promotes my writing. I also retain the rights to all pieces I write and may use them as part of future portfolios, published works, etc. You may not resell, or claim my work as your own. You may repost my work on your own site as long as you credit me.
 
