@@ -16,6 +16,7 @@ Below are a list of fandoms I feel most comfortable writing for (I will also wri
   <th>Alien</th>
   <th>Hunter x Hunter</th>
   <th>InuYasha</th>
+  <th>Hannibal</th>
  </tr>
  </table>
 <br>
