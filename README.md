@@ -47,6 +47,8 @@ https://whimwitch.neocities.org/poetry.html </center><p>
  <td>50% refund</td>
  <td>25% refund</td>
  <td>No refund</td>
+  </tr>
+  </table>
  <p>
 
   <b>Prices:</b> Please note that I will round up the price for longer pieces after hitting 500 words–for example, if you commission a fanfic that is 1500 words, it will cost $60.
