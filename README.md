@@ -33,7 +33,7 @@ https://whimwitch.neocities.org/poetry.html </p>
 
 
  <p align=center><b>Refunds:</b>
- <table>
+ <table align=center>
   <tr>
    <th>Not started</th>
   <td>Full refund</td></tr>
