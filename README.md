@@ -33,11 +33,20 @@ https://whimwitch.neocities.org/poetry.html </center><p>
 
 
  <b>Refunds:</b>
- <li>Not started = full refund</li>
- <li>Started, not much done = 85% refund</li>
- <li>Started, halfway done = 50% refund</li>
- <li>Nearly completed = 25% refund</li>
- <li>Finished but not yet shown = No refund</li>
+ <table>
+  <tr>
+   <th>Not started</th>
+   <th>Started, not much done</th>
+   <th>Started, halfway done</th>
+   <th>Nearly completed</th>
+   <th>Finished but not yet shown </th>
+  </tr>
+  <tr>
+   <td>full refund</td>
+ <td>85% refund</td>
+ <td>50% refund</td>
+ <td>25% refund</td>
+ <td>No refund</td>
  <p>
 
   <b>Prices:</b> Please note that I will round up the price for longer pieces after hitting 500 words–for example, if you commission a fanfic that is 1500 words, it will cost $60.
