@@ -73,5 +73,5 @@ https://whimwitch.neocities.org/poetry.html </p>
 
 I will reply to commission requests within 1-3 days. I will write up an invoice with estimated completion time and keep the commissioner updated with draft progress until the piece is complete.
 
-  <h2>Contact</h2> For inquiries, send an email to whimwitch @ protonmail.com (remove spaces) or send a twitter DM to <a href="https://twitter.com/PendulumScale">@pendulumscale</a>. 
+  <h2>Contact</h2> For inquiries, send an email to whimwitch @ protonmail.com (remove spaces) or send a Twitter DM to <a href="https://twitter.com/PendulumScale">@pendulumscale</a>. 
  
