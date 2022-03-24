@@ -31,8 +31,19 @@ https://whimwitch.neocities.org/poetry.html </p>
 
 <b><p align=center>I reserve the right to decline a writing a commission proposal without explanation.</p></b>
 
-
- <p align=center><b>Refunds:</b>
+h2 {
+background:#eff5fb;
+color: #296fa8;
+width:100%;
+font-size: 20px;
+line-height:20px;
+font-weight: bolder;
+margin: auto;
+text-align: center;
+padding-top:10px;
+padding-bottom:10px;
+border-radius: 12px;}
+<h2 align=center>Refunds</h1>
  <table align=center>
   <tr>
    <th>Not started</th>
