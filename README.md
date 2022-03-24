@@ -1,4 +1,4 @@
-# Commission-Info
+<h1>Whim's Writing Commission Info</h1>
 
 I am offering fanfiction commissions! I am also willing to write character studies, fan essays, fan poetry, and fanmixes with detailed liner notes.
 
@@ -74,8 +74,8 @@ padding-bottom:10px;}
  <tr>
   <th>*Fanpoem</th> <td>$20</td></tr>
  </table>
-  <small><i>*Please let me know if there is a genre or structure you’d prefer for a fanmix or poem.</i></small><br>
-  <small><i>**I reserve the right to round up when over 500 words into a word count tier.</i></small><p>
+  <p align=center><small><i>*Please let me know if there is a genre or structure you’d prefer for a fanmix or poem.</i></small><br>
+  <small><i>**I reserve the right to round up when over 500 words into a word count tier.</i></small></p>
 
 I will reply to commission requests within 1-3 days. I will write up an invoice with estimated completion time and keep the commissioner updated with draft progress until the piece is complete.
 
