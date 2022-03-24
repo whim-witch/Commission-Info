@@ -36,17 +36,19 @@ https://whimwitch.neocities.org/poetry.html </center><p>
  <table>
   <tr>
    <th>Not started</th>
-   <th>Started, not much done</th>
-   <th>Started, halfway done</th>
-   <th>Nearly completed</th>
-   <th>Finished but not yet shown </th>
-  </tr>
+  <td>Full refund</td></tr>
   <tr>
-   <td>full refund</td>
- <td>85% refund</td>
- <td>50% refund</td>
- <td>25% refund</td>
- <td>No refund</td>
+   <th>Started, not much done</th>
+   <td>85% refund</td></tr>
+  <tr>
+   <th>Started, halfway done</th>
+   <td>50% refund</td></tr>
+  <tr>
+   <th>Nearly completed</th>
+   <td>25% refund</td></tr>
+  <tr>
+   <th>Finished but not yet shown </th>
+    <td>No refund</td>
   </tr>
   </table>
  <p>
