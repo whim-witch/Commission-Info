@@ -2,19 +2,21 @@
 
 I am offering fanfiction commissions! I am also willing to write character studies, fan essays, fan poetry, and fanmixes with detailed liner notes.
 
-Below are a list of fandoms I feel most comfortable writing for (I will also write for OCs and other fandoms as long as the commissioner gives me enough information so I get a feel for the characters/relationships):
-
-Yu-Gi-Oh DM
-Venture Brothers
-Devilman
-Yu-Gi-Oh GX
-JJBA (Parts 1, 2, & 4)
-Alien
-Yu-Gi-Oh Arc-V
-Hunter x Hunter
-InuYasha
-
-
+Below are a list of fandoms I feel most comfortable writing for (I will also write for OCs and other fandoms as long as the commissioner gives me enough information so I get a feel for the characters/relationships):<br>
+<table>
+ <tr>
+  <th>Yu-Gi-Oh DM</th>
+  <th>Yu-Gi-Oh GX</th>
+  <th>Yu-Gi-Oh Arc-V</th>
+  <th>Venture Brothers</th>
+  <th>Devilman</th>
+  <th>JJBA (Parts 1, 2, & 4)</th>
+  <th>Alien</th>
+  <th>Hunter x Hunter</th>
+  <th>InuYasha</th>
+ </tr>
+ </table>
+<br>
 There are many more fandoms I’m comfortable writing for, but these are the ones I discuss the most currently. I am comfortable writing for pretty much any horror series (I’ve seen too many films to list) and also writing certain kinds of RPF (I will not write about minors or anything that incites violence against a real person).
 
 I specialize in writing stories about horror elements, possession, codependency, hurt/comfort, and also just plain silly crack fics. I also love essay style writing, so if there’s a ship that you’d like a manifesto for I am more than happy to supply.
