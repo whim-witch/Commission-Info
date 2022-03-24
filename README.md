@@ -3,7 +3,7 @@
 I am offering fanfiction commissions! I am also willing to write character studies, fan essays, fan poetry, and fanmixes with detailed liner notes.
 
 Below are a list of fandoms I feel most comfortable writing for (I will also write for OCs and other fandoms as long as the commissioner gives me enough information so I get a feel for the characters/relationships):<br>
-<table>
+<table align=center>
  <tr>
   <th>Yu-Gi-Oh DM</th>
   <th>Yu-Gi-Oh GX</th>
