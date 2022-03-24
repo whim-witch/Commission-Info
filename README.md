@@ -62,7 +62,7 @@ padding-bottom:10px;}
   </table>
  </p>
 
-  <b>Prices:</b> Please note that I will round up the price for longer pieces after hitting 500 words–for example, if you commission a fanfic that is 1500 words, it will cost $60.
+  <h2 align=center>Prices:</h2> Please note that I will round up the price for longer pieces after hitting 500 words–for example, if you commission a fanfic that is 1500 words, it will cost $60.
 
   <li>Ficlet (500-900 words) - $20</li>
   <li>Fanfic/essay - $30 per 1000 words**</li>
