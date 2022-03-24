@@ -10,6 +10,8 @@ Below are a list of fandoms I feel most comfortable writing for (I will also wri
   <th>Yu-Gi-Oh Arc-V</th>
   <th>Venture Brothers</th>
   <th>Devilman</th>
+ </tr>
+ <tr>
   <th>JJBA (Parts 1, 2, & 4)</th>
   <th>Alien</th>
   <th>Hunter x Hunter</th>
