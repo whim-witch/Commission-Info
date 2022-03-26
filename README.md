@@ -24,7 +24,7 @@ There are many more fandoms I’m able to write for but these are the ones I'm i
 
 I specialize in writing stories with horror elements, guro/euroguro, possession, codependency, hurt/comfort, and also just plain silly crack fics. I also love essay style writing, so if there’s a ship that you’d like a manifesto for I am more than happy to supply.<br>
 
-I am comfortable writing NSFW fics, however I reserve the right to decline writing proposals without explanation. This will be handled professionally, as I may not be the best person to do certain topics jusstice.<br>
+I am comfortable writing NSFW fics, however I reserve the right to decline writing proposals without explanation. This will be handled professionally, as I may not be the best person to do certain topics justice.<br>
 
 <p align=center>To see some samples of my fiction, see my AO3: https://archiveofourown.org/users/whimwitch <br>
 For poetry examples, see my site:
@@ -71,7 +71,7 @@ https://whimwitch.neocities.org/poetry.html </p>
   <p align=center><small><i>*Please let me know if there is a genre or structure you’d prefer for a fanmix or poem.</i></small><br>
   <small><i>**I reserve the right to round up when over 500 words into a word count tier.</i></small></p>
 
-I will reply to commission requests within 1-3 days. I will write up an invoice with estimated completion time and keep the commissioner updated with draft progress until the piece is complete.
+I will reply to commission requests in 1-3 days. I will write up an invoice with estimated completion time and keep the commissioner updated with draft progress until the piece is complete.
 
   <h2>Contact</h2> For inquiries, send an email to whimwitch @ protonmail.com (remove spaces) or send a Twitter DM to <a href="https://twitter.com/PendulumScale">@pendulumscale</a>. 
  
