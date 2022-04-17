@@ -22,7 +22,7 @@ Below are some of fandoms I feel most comfortable writing for (I will also write
 <br>
 There are many more fandoms I’m able to write for but these are the ones I'm into currently. I am comfortable writing for pretty much any horror series (I’ve seen too many films to list) and also writing certain kinds of RPF (I will not write about minors or anything that incites violence against a real person).<p>
 
-I specialize in writing stories with horror elements, guro/euroguro, possession, codependency, hurt/comfort, and also just plain silly crack fics. I also love essay style writing, so if there’s a ship that you’d like a manifesto for I am more than happy to supply.<br>
+I specialize in writing stories with horror elements, guro/eroguro, possession, codependency, hurt/comfort, and also just plain silly crack fics. I also love essay style writing, so if there’s a ship that you’d like a manifesto for I am more than happy to supply.<br>
 
 I am comfortable writing NSFW fics, however I reserve the right to decline writing proposals without explanation. This will be handled professionally, as I may not be the best person to do certain topics justice.<br>
 
