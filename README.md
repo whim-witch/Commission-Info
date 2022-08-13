@@ -55,7 +55,7 @@ https://whimwitch.neocities.org/poetry.html </p>
   </table>
  </p>
 
-  <h2>Prices</h2> Please note that I will round up the price for longer pieces after hitting 500 words–for example, if you commission a fanfic that is 1500 words, it will cost $60. The commissoner is also responsible for covering PayPal transaction fees, so there will a processing charge added to the final invoice to cover these fees.
+  <h2>Prices</h2> Please note that I will round up the price for longer pieces after hitting 500 words–for example, if you commission a fanfic that is 1500 words, it will cost $60. The commissoner is also responsible for covering transaction fees, so there will a processing charge added to the final invoice to cover these fees.
 
 <table align=center>
  <tr>
